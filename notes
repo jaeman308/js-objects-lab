@@ -1,0 +1,14 @@
+Take note of the shape of the data here. Each Pokemon object in the array has the following properties:
+
+Number: A number between 1 and 151.
+Name: A string representing the Pokémon’s name.
+Type: A string indicating the Pokémon’s type.
+HP (Hit Points): A numerical value representing the Pokémon’s health.
+Starter: A boolean indicating whether the Pokémon is a starter.
+
+The starter Pokémon options are:
+
+Pokémon 1: Bulbasaur
+Pokémon 4: Charmander
+Pokémon 7: Squirtle
+Pokémon 25: Pikachu
